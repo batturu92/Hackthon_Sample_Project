@@ -318,6 +318,12 @@ BEGIN
             DBMS_OUTPUT.PUT_LINE('Audit Step 18');
             DBMS_OUTPUT.PUT_LINE('Audit Step 19');
             DBMS_OUTPUT.PUT_LINE('Audit Step 20');
+            DBMS_OUTPUT.PUT_LINE('Audit Step 20');
+            DBMS_OUTPUT.PUT_LINE('Audit Step 20');
+            DBMS_OUTPUT.PUT_LINE('Audit Step 20');
+            DBMS_OUTPUT.PUT_LINE('Audit Step 20');
+            DBMS_OUTPUT.PUT_LINE('Audit Step 20');
+            DBMS_OUTPUT.PUT_LINE('Audit Step 20');
 
             FOR i IN 1 .. 75 LOOP
                 INSERT INTO order_temp_log (
