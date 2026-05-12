@@ -429,6 +429,9 @@ BEGIN
             DBMS_OUTPUT.PUT_LINE('Inventory Validation 18');
             DBMS_OUTPUT.PUT_LINE('Inventory Validation 19');
             DBMS_OUTPUT.PUT_LINE('Inventory Validation 20');
+            DBMS_OUTPUT.PUT_LINE('Inventory Validation 20');
+            DBMS_OUTPUT.PUT_LINE('Inventory Validation 20');
+            DBMS_OUTPUT.PUT_LINE('Inventory Validation 20');
 
             FOR j IN 1 .. 100 LOOP
                 UPDATE inventory_stage
