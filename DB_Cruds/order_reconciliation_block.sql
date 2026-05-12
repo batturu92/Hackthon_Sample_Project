@@ -49,3 +49,6 @@ BEGIN
             v_success_count := v_success_count + 1;
 
             DBMS_OUTPUT.PUT_LINE('Processed Order: ' || v_order_id);
+
+end;
+/
