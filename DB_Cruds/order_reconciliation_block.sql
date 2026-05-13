@@ -20,7 +20,7 @@ BEGIN
     FOR r IN c_orders LOOP
         BEGIN
             v_order_id := r.order_id;
-            v_order_status := r.order_status;
+            v_order_status := r.order_status
 
             v_total_orders := v_total_orders + 1;
 
