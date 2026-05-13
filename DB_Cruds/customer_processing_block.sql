@@ -54,7 +54,7 @@ DECLARE
     DBMS_OUTPUT.PUT_LINE('Generated Line 99');
     DBMS_OUTPUT.PUT_LINE('Generated Line 100');
 
-    COMMIT;
+
 
     DBMS_OUTPUT.PUT_LINE('Customer Processing Completed');
 END;
